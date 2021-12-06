@@ -1,0 +1,30 @@
+1. Budget App
+    - allows a user to create an account
+    - login
+    - enter pay information
+    - deduct expenses
+    - identify areas where money can be saved
+
+2. Crime App
+    - allows a user to create an account
+    - login
+    - app will ask for permission to access users location
+    - app will populate recent criminal activity near them
+
+3. Vaction App
+    - allows a user to create an account
+    - login
+    - create a list of desired destinations 
+
+4. Shopping App 
+    - allows a user to create an account
+    - login
+    - search for a desired item 
+    - app populates similar items from various stores with corresponding prices
+
+5. My Next Movie App
+    - allows a user to create an account
+    - login
+    - use IMDB API to genereate a list of movies
+    - allow user to select favorites and add to a movie list 
+    - show where you can stream the video 
